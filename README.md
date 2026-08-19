@@ -1,0 +1,2 @@
+# Decoding-Customer-Value--An-SQL-Driven-Retention-Strategy
+This project was given by the consultancy and analytics club IIT Guwahati. This has indepth analysis of the using RFM framework on how to retain customers and sql scripts to uderstand which customers have high value, low value, discount shark, and which seasons and geographies are associated with high value, higher retention and repeat purchases.
